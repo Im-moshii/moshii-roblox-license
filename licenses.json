@@ -12,7 +12,12 @@
     },
     {
       "key": "MOSHII-003",
-      "placeid": 1234567890,
+      "placeid": 0,
+      "active": true
+    },
+    {
+      "key": "MOSHII-004",
+      "placeid": 98887758971866,
       "active": true
     }
   ]
