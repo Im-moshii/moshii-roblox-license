@@ -1,9 +1,19 @@
 {
-    "licenses": [
-        {
-            "key": "MOSHII-001",
-            "userid": 123456789,
-            "active": true
-        }
-    ]
+  "licenses": [
+    {
+      "key": "MOSHII-001",
+      "userid": 123456789,
+      "active": true
+    },
+    {
+      "key": "MOSHII-002",
+      "groupid": 9876543,
+      "active": true
+    },
+    {
+      "key": "MOSHII-003",
+      "placeid": 1234567890,
+      "active": true
+    }
+  ]
 }
